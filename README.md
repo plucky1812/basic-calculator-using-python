@@ -1,7 +1,7 @@
 # basic-calculator-using-python
 This is a simple calculator application built using Python. It performs basic arithmetic operations including addition, subtraction, multiplication, and division, as well as advanced functions like square and cube calculations.
 # Features
-Addition: Adds two numbers.
+Addition: Adds two numbers. \n
 Subtraction: Subtracts one number from another.
 Multiplication: Multiplies two numbers.
 Division: Divides one number by another.
